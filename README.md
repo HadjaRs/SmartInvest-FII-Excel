@@ -1,6 +1,6 @@
 # 💜 SmartInvest FII - Simulador de Renda Passiva
 
-![Capa do SmartInvest](Captura de tela 2026-01-17 170549.png)
+![Capa do SmartInvest](previa.png)
 
 Olá! 👋 Este é o meu projeto desenvolvido para o desafio de Excel da **DIO (Digital Innovation One)**. A ideia aqui foi criar uma ferramenta prática e visualmente atraente para ajudar quem quer simular o crescimento do seu dinheiro com Fundos Imobiliários.
 
